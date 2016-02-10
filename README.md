@@ -1,6 +1,6 @@
 # GRiD logos
 
-This repository contains logos for the GRiD data club. Currently there are two files.
+This repository contains logos for the GRiD data club. 
 
 * grid_logo.png : This is a transparent image with dimensions 364px x 172px. This is suitable for use in websites, slideshows, reports, etc.
 
